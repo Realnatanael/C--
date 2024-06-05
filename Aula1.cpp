@@ -8,4 +8,4 @@ int main() {
     return 0;
 }
 
-//digitar o comando no terminal: "C:\Users\pluan\Área de Trabalho\Natanael\C++\Aula1.exe"
+//digitar o comando no terminal: "C:\Users\pluan\Área de Trabalho\Natanael\C++\output\Aula1.exe"
